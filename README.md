@@ -3,6 +3,7 @@
 Title: **Calculation and machine learning prediction of molecular spectra**
 
 Student: Adnan Jasarevic
+
 Advisor: Dr Hande Toffoli
 
 Goals:
